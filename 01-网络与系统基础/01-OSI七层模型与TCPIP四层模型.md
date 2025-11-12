@@ -29,7 +29,7 @@ TCP/IP模型是互联网实际使用的**工业标准**，将OSI的7层简化为
 | 1. 网络接口层/数据链路层    | 集成OSI的数据链路层+物理层功能    | 2+1层              | 同OSI数据链路层+物理层（ARP欺骗、物理嗅探）。                                     |  
 
   
-![OSI与TCP/IP模型对应关系](../../images/模型对比.png)  
+![OSI与TCP/IP模型对应关系](security-self-learning-notes/images/模型对比.png)  
 
 
 ## 三、为什么现实世界不用OSI七层模型，而用TCP/IP四层模型？ 
